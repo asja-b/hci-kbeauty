@@ -84,7 +84,7 @@ High-fidelity prototype covering all key screens with UI pattern documentation f
 📄 [`docs/Prototip_KBeauty.pdf`](docs/Prototip_KBeauty.pdf)  
 🖼️ [`prototype/`](prototype/) — Individual screen exports
 
-> 🚧 Full implementation coming soon via Figma Make.
+> 🚧 Full implementation coming soon.
 
 ---
 
